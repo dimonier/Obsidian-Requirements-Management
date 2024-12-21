@@ -1,0 +1,13 @@
+{
+  "readableLineLength": false,
+  "attachmentFolderPath": "./",
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": true,
+    "margin": "0",
+    "downscalePercent": 75
+  },
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "promptDelete": false
+}

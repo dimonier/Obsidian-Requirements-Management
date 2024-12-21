@@ -1,0 +1,10 @@
+{
+  "cssTheme": "Things",
+  "accentColor": "#994ce6",
+  "enabledCssSnippets": [
+    "fix-mermaid",
+    "naked embeds"
+  ],
+  "baseFontSizeAction": true,
+  "baseFontSize": 15
+}

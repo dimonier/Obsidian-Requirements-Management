@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"67dd9ae9ddc14a90","type":"file","file":"Требования - все.md","x":-600,"y":-200,"width":1283,"height":680},
+		{"id":"7b0e2ebb8d93273f","type":"file","file":"Требования - реализация по версиям.md","x":-600,"y":550,"width":1283,"height":490},
+		{"id":"32c760626a1aaee8","type":"file","file":"Последние изменения.md","x":-1200,"y":-200,"width":547,"height":1240},
+		{"id":"bfe0e6fd545107b1","type":"file","file":"Истории.md","x":740,"y":-200,"width":947,"height":590},
+		{"id":"bddcb209fdcdecaf","type":"file","file":"Фичи.md","x":740,"y":450,"width":947,"height":590}
+	],
+	"edges":[]
+}
